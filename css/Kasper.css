@@ -563,7 +563,7 @@ header nav .form i {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
   text-align: center;
-  background-image: url(/images/stats.png);
+  background-image: url(../images/stats.png);
   background-size: cover;
   position: relative;
 }
@@ -854,7 +854,7 @@ header nav .form i {
 .earth {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url(/images/subscribe.jpg);
+  background-image: url(../images/subscribe.jpg);
   background-size: cover;
   position: relative;
   color: white;
